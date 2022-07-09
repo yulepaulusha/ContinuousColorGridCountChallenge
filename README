@@ -1,0 +1,3 @@
+analyzeColorGrid() is a program to analyse a given color grid, and find out the largest continuous color block in the given grid.
+If there are more than one maximum colors in the grid, all will return.
+It will display the number of blocks in the grid for the related maximum color.
